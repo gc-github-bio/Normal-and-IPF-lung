@@ -1,6 +1,3 @@
----
-title: "QC"
----
 
 ```r
 library(Seurat)
