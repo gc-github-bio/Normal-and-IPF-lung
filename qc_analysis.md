@@ -2,9 +2,6 @@
 title: "QC_analysis"
 author: "GC"
 date: "2/1/2020"
-output: 
-  html_document: 
-    keep_md: yes
 ---
 
 
