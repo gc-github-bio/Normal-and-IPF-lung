@@ -1,11 +1,3 @@
----
-title: "QC_analysis"
-author: "GC"
-date: "2/1/2020"
----
-
-
-
 ## Filter cells for 'ambient' RNA, low quality, and doublets.
 
 
