@@ -1,15 +1,3 @@
----
-title: "QC"
-author: "GC"
-date: "1/20/2020"
-output: 
-  html_document: 
-    keep_md: yes
----
-
-
-
-
 ```r
 library(Seurat)
 library(ggplot2)
