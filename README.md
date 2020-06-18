@@ -2,6 +2,4 @@
 
 qc.md: QC and removal of "ambient RNA", doublets, low quality and undesired cells, performed separately for each dataset, before integration using Seurat.
 
-popRNAseq_Heatmap.R: comparison of scRNAseq and popRNAseq for CD66+ and CD66- cells.
-
-diffusion_map.R: Diffusion map of basal and secretory cells.
+AfterQC.R: Analysis performed after QC.
