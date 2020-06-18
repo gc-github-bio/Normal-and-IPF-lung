@@ -2,4 +2,4 @@
 
 qc.md: QC and removal of "ambient RNA", doublets, low quality and undesired cells, performed separately for each dataset, before integration using Seurat.
 
-AfterQC.R: Analysis performed after QC.
+AfterQC.R: Datasets integration and Analysis performed after QC.
